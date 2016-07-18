@@ -23,3 +23,6 @@ a{
 .navbar-nav > li > a {
     color: #333;
 }
+.bold{
+	font-weight: bold;
+}
